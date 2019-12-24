@@ -9,6 +9,9 @@ add_executable (writeImage
  # header
  include/vector.h
  include/ray.h
+ include/sphere.h
+ include/hitable.h
+ include/hitablelist.h
  # source file
  src/vector.cpp
  banboo.cpp
